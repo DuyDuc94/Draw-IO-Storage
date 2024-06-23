@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-23T15:56:42.648Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="FwJeT3DxDuJVeXr3cpsZ" version="24.5.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-06-23T16:02:05.064Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="MO9AukJ2gefHASvXS5Bl" version="24.5.5" type="github" pages="6">
   <diagram name="Usecase Diagrams" id="Wgt4_d-_BLN-MJvlTJlJ">
     <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -607,7 +607,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HLjHZjicE62Kv4JlI9dr-45" value="C13: Cart Update (quantity)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-5;" vertex="1" connectable="0" parent="HLjHZjicE62Kv4JlI9dr-44">
+        <mxCell id="HLjHZjicE62Kv4JlI9dr-45" value="C13: Cart Remove" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-5;" vertex="1" connectable="0" parent="HLjHZjicE62Kv4JlI9dr-44">
           <mxGeometry x="0.2228" y="2" relative="1" as="geometry">
             <mxPoint x="-16" y="-12" as="offset" />
           </mxGeometry>
@@ -665,7 +665,7 @@
             <mxPoint x="-760" y="3140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HLjHZjicE62Kv4JlI9dr-57" value="C18: Order Information&lt;div&gt;C7.3: Retry Payment&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HLjHZjicE62Kv4JlI9dr-56">
+        <mxCell id="HLjHZjicE62Kv4JlI9dr-57" value="C18: Order Information&lt;div&gt;C7.3: Order Failed&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HLjHZjicE62Kv4JlI9dr-56">
           <mxGeometry x="0.3098" y="-1" relative="1" as="geometry">
             <mxPoint x="25" y="21" as="offset" />
           </mxGeometry>
