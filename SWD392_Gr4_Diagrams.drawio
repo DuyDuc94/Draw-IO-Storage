@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-23T23:44:55.380Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="3MXJehQNFL4GgtYC4sTV" version="24.5.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-06-23T23:47:18.805Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="4HcuuFRMboupPSuYf9T8" version="24.5.5" type="github" pages="6">
   <diagram name="Usecase Diagrams" id="Wgt4_d-_BLN-MJvlTJlJ">
     <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -710,7 +710,7 @@
             <mxPoint x="-25" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7FnbWEMp2PJIHJoINvtb-27" value="&amp;lt;&amp;lt;state&amp;nbsp;&lt;div&gt;depedent control&amp;gt;&amp;gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;Checkout Control&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="7FnbWEMp2PJIHJoINvtb-27" value="&amp;lt;&amp;lt;Coordinator&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;gt;&amp;gt;&lt;/span&gt;&lt;div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;Checkout Control&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-320" y="3860" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7FnbWEMp2PJIHJoINvtb-28" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7FnbWEMp2PJIHJoINvtb-27" target="7FnbWEMp2PJIHJoINvtb-17">
@@ -1037,6 +1037,11 @@
             <mxPoint x="19" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
+        <UserObject label="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-6827ddf7-7fff-72b3-75f6-d3abf43bda13&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Verdana,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;&lt;span style=&quot;border:none;display:inline-block;overflow:hidden;width:624px;height:331px;&quot;&gt;&lt;img src=&quot;https://lh7-us.googleusercontent.com/docsz/AD_4nXf5uuDscUYzUF9YZapGXERxAfWBBhnpRMJJ7W-SXLhC5pK4KIKwLluWV5jHhy3n4F7zvSv4Pv9ESq-XQyqWwWNrHpYFudBBhGLPQNaZEr1cG7mTzJoE5t1msM9FffMY39VuM1iMAgey5BWWcsHcYuRvl0IM3x_YF8qrJ2FQ?key=UDwJBNeY5nrTqgvvlbzghA&quot; width=&quot;624&quot; height=&quot;331&quot; style=&quot;margin-left:0px;margin-top:0px;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;" link="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-6827ddf7-7fff-72b3-75f6-d3abf43bda13&quot;&gt;&lt;span style=&quot;font-size:10pt;font-family:Verdana,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;&lt;span style=&quot;border:none;display:inline-block;overflow:hidden;width:624px;height:331px;&quot;&gt;&lt;img src=&quot;https://lh7-us.googleusercontent.com/docsz/AD_4nXf5uuDscUYzUF9YZapGXERxAfWBBhnpRMJJ7W-SXLhC5pK4KIKwLluWV5jHhy3n4F7zvSv4Pv9ESq-XQyqWwWNrHpYFudBBhGLPQNaZEr1cG7mTzJoE5t1msM9FffMY39VuM1iMAgey5BWWcsHcYuRvl0IM3x_YF8qrJ2FQ?key=UDwJBNeY5nrTqgvvlbzghA&quot; width=&quot;624&quot; height=&quot;331&quot; style=&quot;margin-left:0px;margin-top:0px;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;" id="7FnbWEMp2PJIHJoINvtb-139">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="-1540" y="2900" width="560" height="360" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
