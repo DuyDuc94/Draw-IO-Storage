@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-14T14:55:32.432Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="6MhoWaUM_TuJgpP2rhTR" version="24.6.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-07-14T14:59:06.925Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="IaUSsadBblnW6Dq_jSql" version="24.6.5" type="github" pages="6">
   <diagram name="Usecase Diagrams" id="Wgt4_d-_BLN-MJvlTJlJ">
     <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wLqG0A1-bx51U8bKYdAv" name="Communication/Sequence Diagram">
-    <mxGraphModel dx="3134" dy="-362" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2750" dy="-578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -215,9 +215,9 @@
             <mxPoint x="-750" y="1480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FnPRkQpF6sNc6OkEJtjU-13" value="C12: Cart Information" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="FnPRkQpF6sNc6OkEJtjU-12" vertex="1" connectable="0">
+        <mxCell id="FnPRkQpF6sNc6OkEJtjU-13" value="&lt;div&gt;C3.1 Cart Is Empty&lt;/div&gt;C4: Cart Information" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="FnPRkQpF6sNc6OkEJtjU-12" vertex="1" connectable="0">
           <mxGeometry x="0.0744" y="6" relative="1" as="geometry">
-            <mxPoint x="5" y="4" as="offset" />
+            <mxPoint x="5" y="14" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FnPRkQpF6sNc6OkEJtjU-14" value="C2: Cart Request" style="endArrow=classic;html=1;rounded=0;fontSize=12;" parent="1" edge="1">
@@ -230,8 +230,8 @@
         <mxCell id="FnPRkQpF6sNc6OkEJtjU-15" value="&amp;lt;&amp;lt;service&amp;gt;&amp;gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;CartService&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-310" y="1430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FnPRkQpF6sNc6OkEJtjU-19" value="C11: Customer&#39;s Cart" style="endArrow=classic;html=1;rounded=0;fontSize=12;" parent="1" edge="1">
-          <mxGeometry x="0.0087" y="20" width="50" height="50" relative="1" as="geometry">
+        <mxCell id="FnPRkQpF6sNc6OkEJtjU-19" value="&lt;div&gt;C3: Customer&#39;s Cart&lt;br&gt;&lt;/div&gt;" style="endArrow=classic;html=1;rounded=0;fontSize=12;" parent="1" edge="1">
+          <mxGeometry y="20" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-340" y="1480" as="sourcePoint" />
             <mxPoint x="-440" y="1480" as="targetPoint" />
             <mxPoint as="offset" />
